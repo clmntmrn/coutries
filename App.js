@@ -72,6 +72,25 @@ import FR from "./assets/svg/fr.svg";
 //g
 import GA from "./assets/svg/ga.svg";
 import GM from "./assets/svg/gm.svg";
+import GE from "./assets/svg/ge.svg";
+import DE from "./assets/svg/de.svg";
+import GH from "./assets/svg/gh.svg";
+import GR from "./assets/svg/gr.svg";
+import GD from "./assets/svg/gd.svg";
+import GT from "./assets/svg/gt.svg";
+import GN from "./assets/svg/gn.svg";
+import GW from "./assets/svg/gw.svg";
+import GY from "./assets/svg/gy.svg";
+//h
+import HT from "./assets/svg/ht.svg";
+import HN from "./assets/svg/hn.svg";
+import HU from "./assets/svg/hu.svg";
+//i
+import IS from "./assets/svg/is.svg";
+import IN from "./assets/svg/in.svg";
+import ID from "./assets/svg/id.svg";
+import IR from "./assets/svg/ir.svg";
+import IQ from "./assets/svg/iq.svg";
 
 // Exemple de données
 const flagsData = [
@@ -413,6 +432,97 @@ const flagsData = [
 		isoCode: "gm",
 		country: "Gambia",
 		flag: GM,
+	},
+	{
+		isoCode: "ge",
+		country: "Georgia",
+		flag: GE,
+	},
+	{
+		isoCode: "de",
+		country: "Germany",
+		flag: DE,
+	},
+	{
+		isoCode: "gh",
+		country: "Ghana",
+		flag: GH,
+	},
+	{
+		isoCode: "gr",
+		country: "Greece",
+		flag: GR,
+	},
+	{
+		isoCode: "gd",
+		country: "Grenada",
+		flag: GD,
+	},
+	{
+		isoCode: "gt",
+		country: "Guatemala",
+		flag: GT,
+	},
+	{
+		isoCode: "gn",
+		country: "Guinea",
+		flag: GN,
+	},
+	{
+		isoCode: "gw",
+		country: "Guinea Bissau",
+		flag: GW,
+	},
+	{
+		isoCode: "gy",
+		country: "Guyana",
+		flag: GY,
+	},
+
+	// h
+
+	{
+		isoCode: "ht",
+		country: "Haiti",
+		flag: HT,
+	},
+	{
+		isoCode: "hn",
+		country: "Honduras",
+		flag: HN,
+	},
+	{
+		isoCode: "hu",
+		country: "Hungary",
+		flag: HU,
+	},
+
+	// i
+
+	{
+		isoCode: "is",
+		country: "Iceland",
+		flag: IS,
+	},
+	{
+		isoCode: "in",
+		country: "India",
+		flag: IN,
+	},
+	{
+		isoCode: "id",
+		country: "Indonesia",
+		flag: ID,
+	},
+	{
+		isoCode: "ir",
+		country: "Iran",
+		flag: IR,
+	},
+	{
+		isoCode: "iq",
+		country: "Iraq",
+		flag: IQ,
 	},
 ];
 
